@@ -178,7 +178,7 @@ Navigation
 ========================================================================== */
 .header-nav.open {
   visibility: visible;
-  opacity: 0.9;
+  opacity: 0.5;
   -webkit-transition: opacity 0.5s;
   transition: opacity 0.5s;
 }
@@ -293,7 +293,7 @@ Hero
 }
 .fixed {
   position: fixed;
-  background-color: rgba(55, 36, 40, .88);
+  background-color: rgba(10, 50, 20, .75);
   z-index: 999;
   width: 100%;
 }
@@ -314,12 +314,12 @@ header {
       margin-right: 20px;
     }
   }
-  .logo {
-    display: inline-block;
-  }
-  .logo img {
-    height: 19px;
-  }
+  // .logo {
+  //   display: inline-block;
+  // }
+  // .logo img {
+  //   height: 19px;
+  // }
   ul.primary-nav {
     margin: 0 0 0 75px;
     padding: 0;
