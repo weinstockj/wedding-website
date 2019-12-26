@@ -187,14 +187,14 @@ $(document).ready(function () {
             title: "Ariella and Josh's wedding",
 
             // Event start date
-            start: new Date('April 5, 2020 13:00'),
+            start: new Date('April 5, 2020 12:30'),
 
             // Event duration (IN MINUTES)
             // duration: 120,
 
             // You can also choose to set an end time
             // If an end time is set, this will take precedence over duration
-            end: new Date('April 5, 2020 18:00'),
+            end: new Date('April 5, 2020 18:30'),
 
             // Event Address
             address: 'Riviera Country Club',
